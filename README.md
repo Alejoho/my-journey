@@ -1,5 +1,7 @@
 # My Journey
 
+## The Beginnings
+
 I am a former Agronomic Engineer. While working in my first job after graduation, I came across a business that ran its operations in a very archaic way. I proposed to the owners to create a software solution for them, free of charge. Initially, I thought creating an Access database would be enough, but then I discovered VBA under the hood of Microsoft Access and a whole new world opened before my eyes. During this part of my journey, I took the following courses on a YouTube channel called "Píldoras Informáticas":
 
 * [Curso Access 2010 Básico](https://www.youtube.com/playlist?list=PLDA8B66B264169835)
@@ -30,4 +32,21 @@ It’s worth noting that all of this learning, experimenting, and building proje
 
 ## The Next Project  
 
-This leads us to the next project I mentioned earlier…
+On August 25th, 2023, I started my new project and challenge: **“Green House Schedule.”**  
+
+I spent about two weeks planning how to approach it, gathering requirements from my clients, roughly designing the UI, and defining the data. The logic part took longer. I struggled with impostor syndrome and told myself: *“Let’s first design how to approach the main algorithm of the program.”*  
+
+That was the true purpose of this project, determining **when to grow client orders while considering the business’s limited resources** (such as area, seedling trays, manual labor, and time). I thought: *If I can’t figure this out, why even continue with the project?*  
+
+But I persevered. I came up with a feasible approach and started building.  
+
+A few months later, I run into Git and realized I needed to properly learn Git and source control—knowledge I hadn’t yet mastered. So, I paused development and studied Git; again with Juan Díaz on his YouTube channel [Píldoras Informáticas](https://www.youtube.com/@pildorasinformaticas). It took me almost a month to get to the level I wanted, but with hard work, I achieved it.  
+
+* **8/23/2023** – Finished the [“Curso Git & GitHub” from Píldoras Informáticas](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlyaPFiNQcV0xDqy0eR35aU)  
+
+Now, with Git under my “black belt”, I could properly version my progress and continue working on the project.  
+
+This is not the end. This real story (my journey) is still under construction. Be patient, please.  
+
+Continue from the point when I left IIHLD
+
