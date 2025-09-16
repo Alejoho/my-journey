@@ -45,8 +45,47 @@ A few months later, I run into Git and realized I needed to properly learn Git a
 * **8/23/2023** – Finished the [“Curso Git & GitHub” from Píldoras Informáticas](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlyaPFiNQcV0xDqy0eR35aU)  
 
 Now, with Git under my “black belt”, I could properly version my progress and continue working on the project.  
+<!-- 
+## Next Discovery: 'Tim Corey'
+
+Wander around in YouTube looking information of how structure well my app, I found the channel [IAmTimCorey](https://www.youtube.com/IAmTimCorey/playlists). Tim is a software developer with more than 20 years of experience in the industry and several times Microsoft MVP. His videos are long, usually more than 40 minutes, in them he tries not just to teach how the things are done but why and what are the drawbacks and benefits down the road for the choices you made in the development process. Between the tons of videos he has I found this serie: [C# Application From Start to Finish: Tournament Tracker](https://www.youtube.com/playlist?list=PLLWMQd6PeGY3t63w-8MMIjIyYS7MsFcCi). A serie that teaches how to build a complete app following best practice and good choice making. So I had decided to take it.
+
+I continue working in the **“Green House Schedule.”** app, but the majority of the time was with the Tournament Tracker serie. But then I realize I had no enough time to keep a continuous advanced so...
+
+## Shift To Full-Time
+
+On **12/15/2023** I decided to left my job to focus all my time on this goal. The goal of enter the IT industry as a software developer. Part of my family dislike this goal and wanted me to keep my way in the family business. But I refuse, I had decided it was time to pursue my passion, live my life.
+
+Now with all my time available to develop I had enough time to make progress in the learning and the development at the same pace. So i split my time in half for the **“Tournament Tracker”** and for the **“Green House Schedule.”**.
+
+One of the major things I learned in the serie and applied in the app was error handling. I had the basic of how to use a try catch block, but where should I place it? In a deep layer or in the UI. But Tim clear those doubts in his teaching. Other thing was when the app were in production and broke, how would I know the details that procude that scenario. So I added a logging system to track down the bugs.
+
+On **7/4/2024** I finish the Tournament Tracker serie and a few days after on **7/9/2024** I finished the **“Green House Schedule.”** and gave the product to my clients.
+
+## Formal education ahead of me -->
+
+## Next Discovery: *Tim Corey*  
+
+While wandering around YouTube looking for information on how to structure my app properly, I found the channel [IAmTimCorey](https://www.youtube.com/IAmTimCorey/playlists). Tim is a software developer with more than 20 years of industry experience and is a multiple-time Microsoft MVP. His videos are long, usually over 40 minutes and in them he tries not just to teach *how* things are done but also *why*, as well as the drawbacks and benefits of the choices you make during the development process and how they might affect the future of the product you're building.  
+
+Among the many videos he has, I found this series: [C# Application From Start to Finish: Tournament Tracker](https://www.youtube.com/playlist?list=PLLWMQd6PeGY3t63w-8MMIjIyYS7MsFcCi). In it, Tim teaches how to build a complete app while following best practices and making good decisions along the way. So, I decided to take it.  
+
+I continued working on the **“Green House Schedule”** app, but I spent most of my time on the *Tournament Tracker* series. Then I realized I didn’t have enough time to keep making consistent progress, so…  
+
+## Shift to Full-Time  
+
+On **12/15/2023**, I decided to leave my job to focus all my time on this goal of mine: entering the IT industry as a software developer. Some of my family disliked this decision and wanted me to stay in the family business, but I refused. I had decided it was time to pursue my passion and live my own life.  
+
+Now, with all my time available, I could finally make steady progress in both learning and development. I split my time equally between the **“Tournament Tracker”** and the **“Green House Schedule”**.  
+
+One of the major things I learned in the series and applied to my app was error handling. I knew the basics of using a try-catch block, but where should I place it,in a deep layer or in the UI? Tim cleared up those doubts in his lessons. Another key insight was understanding what to do when an app is in production and breaks: how would I know the details of what caused the issue? To solve this, I added a logging system to track bugs.  
+
+On **7/4/2024**, I finished the *Tournament Tracker* series, and a few days later, on **7/9/2024**, I completed the **“Green House Schedule”** and delivered the product to my clients.  
+
+## Formal Education Ahead of Me  
+
 
 This is not the end. This real story (my journey) is still under construction. Be patient, please.  
 
-Continue from the point when I left IIHLD
+Continue from the point when I decided to seek a more formal education
 
