@@ -2,7 +2,7 @@
 
 ## The Beginnings
 
-I am a former Agronomic Engineer. While working in my first job after graduation, I came across a business that ran its operations in a very archaic way. I proposed to the owners to create a software solution for them, free of charge. Initially, I thought creating an Access database would be enough, but then I discovered VBA under the hood of Microsoft Access and a whole new world opened before my eyes. During this part of my journey, I took the following courses on a YouTube channel called "Píldoras Informáticas":
+I am a former Agronomic Engineer. While working in my first job after graduation, I came across a business that ran its economy in a very archaic way. I proposed to the owners to create a software solution for them, free of charge. Initially, I thought creating an Access database would be enough, but then I discovered VBA under the hood of Microsoft Access and a whole new world opened before my eyes. During this part of my journey, I took the following courses on a YouTube channel called "Píldoras Informáticas":
 
 * [Curso Access 2010 Básico](https://www.youtube.com/playlist?list=PLDA8B66B264169835)
 * [Curso Access 2010 Avanzado](https://www.youtube.com/playlist?list=PL87EB5DB749276DAF)
@@ -34,13 +34,13 @@ It’s worth noting that all of this learning, experimenting, and building proje
 
 On August 25th, 2023, I started my new project and challenge: **“Green House Schedule.”**  
 
-I spent about two weeks planning how to approach it, gathering requirements from my clients, roughly designing the UI, and defining the data. The logic part took longer. I struggled with impostor syndrome and told myself: *“Let’s first design how to approach the main algorithm of the program.”*  
+I spent about two weeks planning how to approach it, gathering requirements from my clients, roughly designing the UI, and defining the data. The logic part took longer. I struggled with impostor syndrome and told myself: *“Let’s first design how to approach the main algorithm of the program, because if I can't manage to create this, there is no point in creating all the structure around it.”* If the core don't work the rest is useless.  
 
 That was the true purpose of this project, determining **when to grow client orders while considering the business’s limited resources** (such as area, seedling trays, manual labor, and time). I thought: *If I can’t figure this out, why even continue with the project?*  
 
 But I persevered. I came up with a feasible approach and started building.  
 
-A few months later, I run into Git and realized I needed to properly learn Git and source control—knowledge I hadn’t yet mastered. So, I paused development and studied Git; again with Juan Díaz on his YouTube channel [Píldoras Informáticas](https://www.youtube.com/@pildorasinformaticas). It took me almost a month to get to the level I wanted, but with hard work, I achieved it.  
+A few months later, I run into Git and realized I needed to properly learn Git and source control, knowledge I hadn’t yet mastered. So, I paused development and studied Git; again with Juan Díaz on his YouTube channel [Píldoras Informáticas](https://www.youtube.com/@pildorasinformaticas). It took me almost a month to get to the level I wanted, but with hard work, I achieved it.  
 
 * **8/23/2023** – Finished the [“Curso Git & GitHub” from Píldoras Informáticas](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlyaPFiNQcV0xDqy0eR35aU)  
 
@@ -80,10 +80,15 @@ Now, with all my time available, I could finally make steady progress in both le
 
 One of the major things I learned in the series and applied to my app was error handling. I knew the basics of using a try-catch block, but where should I place it,in a deep layer or in the UI? Tim cleared up those doubts in his lessons. Another key insight was understanding what to do when an app is in production and breaks: how would I know the details of what caused the issue? To solve this, I added a logging system to track bugs.  
 
-On **7/4/2024**, I finished the *Tournament Tracker* series, and a few days later, on **7/9/2024**, I completed the **“Green House Schedule”** and delivered the product to my clients.  
+On **7/4/2024**, I finished the *Tournament Tracker* series, and a few days later, on **7/8/2024**, I completed the **“Green House Schedule”** and delivered the product to my clients.  
 
 ## Formal Education Ahead of Me  
 
+I don't remember exactly how, but in the platform (edX)[https://www.edx.org/school/harvardx] I came across with [CS50x](https://cs50.harvard.edu/x/) , the introductory course to computer science of the Harvard University. This is a 12 weeks course, with a lecture, some practice labs, and some excercises every week, but at your own pace. On the **7/9/2024** I started this new goal. The english of profesor David Malan, Dough Lloyd and Brian Yu was really fast. Thanks to years of lessons and practice, my english skills were up to the task. The first 6 week were easy I had experience in all the topics covered. The real challenge resided outside of my confort zone, in week 6 we covered Python, a programming language I'd never came across, so I had to spent some time learning the basics. Later in week 8 HTML, CSS and JavaScript". I had to spend a whole month to master these technologies at a confortable level in order to make the exercices of that week. Week 9 web application with Flask. And the excercises weren't easy. But I continued.
+
+And finally there it was, The final project. I was indeciso about what to build, I had known It would be a web application with flask, but there were so many things I could build with that. CS50 helped me improve my english through the fast spoken lesson, so I decided to make my project related to the learning of the english language. A web app course, it's what I was going to build, an app about the book [La Guia de los Tiempos Verbales](https://www.amazon.com/Guía-los-Tiempos-Verbales-Aprende-ebook/dp/B0777RFS2D) of Daniel Welsch. I contacted the author, told him my idea and asked for permition, the answer was positive and I started building.
+
+[Final project video](link)
 
 This is not the end. This real story (my journey) is still under construction. Be patient, please.  
 
