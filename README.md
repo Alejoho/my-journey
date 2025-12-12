@@ -45,24 +45,6 @@ A few months later, I run into Git and realized I needed to properly learn Git a
 * **8/23/2023** – Finished the [“Curso Git & GitHub” from Píldoras Informáticas](https://www.youtube.com/playlist?list=PLU8oAlHdN5BlyaPFiNQcV0xDqy0eR35aU)  
 
 Now, with Git under my “black belt”, I could properly version my progress and continue working on the project.  
-<!-- 
-## Next Discovery: 'Tim Corey'
-
-Wander around in YouTube looking information of how structure well my app, I found the channel [IAmTimCorey](https://www.youtube.com/IAmTimCorey/playlists). Tim is a software developer with more than 20 years of experience in the industry and several times Microsoft MVP. His videos are long, usually more than 40 minutes, in them he tries not just to teach how the things are done but why and what are the drawbacks and benefits down the road for the choices you made in the development process. Between the tons of videos he has I found this serie: [C# Application From Start to Finish: Tournament Tracker](https://www.youtube.com/playlist?list=PLLWMQd6PeGY3t63w-8MMIjIyYS7MsFcCi). A serie that teaches how to build a complete app following best practice and good choice making. So I had decided to take it.
-
-I continue working in the **“Green House Schedule.”** app, but the majority of the time was with the Tournament Tracker serie. But then I realize I had no enough time to keep a continuous advanced so...
-
-## Shift To Full-Time
-
-On **12/15/2023** I decided to left my job to focus all my time on this goal. The goal of enter the IT industry as a software developer. Part of my family dislike this goal and wanted me to keep my way in the family business. But I refuse, I had decided it was time to pursue my passion, live my life.
-
-Now with all my time available to develop I had enough time to make progress in the learning and the development at the same pace. So i split my time in half for the **“Tournament Tracker”** and for the **“Green House Schedule.”**.
-
-One of the major things I learned in the serie and applied in the app was error handling. I had the basic of how to use a try catch block, but where should I place it? In a deep layer or in the UI. But Tim clear those doubts in his teaching. Other thing was when the app were in production and broke, how would I know the details that procude that scenario. So I added a logging system to track down the bugs.
-
-On **7/4/2024** I finish the Tournament Tracker serie and a few days after on **7/9/2024** I finished the **“Green House Schedule.”** and gave the product to my clients.
-
-## Formal education ahead of me -->
 
 ## Next Discovery: *Tim Corey*  
 
@@ -86,9 +68,17 @@ On **7/4/2024**, I finished the *Tournament Tracker* series, and a few days late
 
 I don't remember exactly how, but in the platform (edX)[https://www.edx.org/school/harvardx] I came across with [CS50x](https://cs50.harvard.edu/x/) , the introductory course to computer science of the Harvard University. This is a 12 weeks course, with a lecture, some practice labs, and some excercises every week, but at your own pace. On the **7/9/2024** I started this new goal. The english of profesor David Malan, Dough Lloyd and Brian Yu was really fast. Thanks to years of lessons and practice, my english skills were up to the task. The first 6 week were easy I had experience in all the topics covered. The real challenge resided outside of my confort zone, in week 6 we covered Python, a programming language I'd never came across, so I had to spent some time learning the basics. Later in week 8 HTML, CSS and JavaScript". I had to spend a whole month to master these technologies at a confortable level in order to make the exercices of that week. Week 9 web application with Flask. And the excercises weren't easy. But I continued.
 
-And finally there it was, The final project. I was indeciso about what to build, I had known It would be a web application with flask, but there were so many things I could build with that. CS50 helped me improve my english through the fast spoken lesson, so I decided to make my project related to the learning of the english language. A web app course, it's what I was going to build, an app about the book [La Guia de los Tiempos Verbales](https://www.amazon.com/Guía-los-Tiempos-Verbales-Aprende-ebook/dp/B0777RFS2D) of Daniel Welsch. I contacted the author, told him my idea and asked for permition, the answer was positive and I started building.
+And finally there it was, The final project. I was undecided about what to build, I had known It would be a web application with flask, but there were so many things I could build with that. CS50 helped me improve my english through the fast spoken lesson, so I decided to make my project related to the learning of the english language. A web app course, it's what I was going to build, an app about the book [La Guia de los Tiempos Verbales](https://www.amazon.com/Guía-los-Tiempos-Verbales-Aprende-ebook/dp/B0777RFS2D) of Daniel Welsch. I contacted the author, told him my idea and asked for permition, the answer was positive and I started building. 
 
-[Final project video](link)
+I was really happy with the result, I created a good app, you can find a video demo here: [Final project video](https://m.youtube.com/watch?v=2pJ7SCmXtAA). I allowed permission to the CS50 staff to put my project in a repository with a bunch of other projects, to give inspiration to new students that need to face the same challenge.
+
+Well after finishing CS50 my next step was going to take a list of courses in the platform [IAmTimCorey.com](https://www.iamtimcorey.com/). Between them some really important like: C# Mastercourse, Git From Start to Finish, Web Api From Start to Finish. But I wasn't ready. I needed some items that my sister was going to buy for me. By that time in Cuba, my country, we were facing long blackouts, so in order to make progress in my studies I needed a laptop with good battery life and a way to power up my internet router. For the laptop I had a MacBook so by that side I was covered. And for the router part I asked my sister for a 40k mAh power bank and an adapter cable from 5v to 9v, which was the voltage my router needed.
+
+I've never had passed a paid course over the internet so I wanted to see what Tim's platform had to offer, so my sister bought me a Monthly Dev Pass, just to test the platform for a few days, make the complete list of the courses I wanted to take, and confirm that this was the right step (and it was). Three days later I canceled my subscription, and I started waiting for the items.
+
+But in the meantime, I couldn't be inactive. I choose to buy 2 courses from Udemy: [Master Multithreading & Asynchronous Programming in C#/.NET](https://www.udemy.com/course/complete-guide-to-aspnet-core-identity) and [Master ASP.NET Core Identity: Authentication & Authorization](https://www.udemy.com/course/master-multithreading-asynchronous-programming-in-csharp-dotnet), both by Frank Liu. I started the first one and completed almost 75% of it, and then my package arrived. I tested it, they worked just fine. Well finally it was time to deep dive into Tim's content.
+
+I started on **April 16th of 2025** with the C# Mastercourse,
 
 This is not the end. This real story (my journey) is still under construction. Be patient, please.  
 
